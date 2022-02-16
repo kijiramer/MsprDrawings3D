@@ -1,0 +1,9 @@
+{
+    "name": "SceneLoading",
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ]
+}
